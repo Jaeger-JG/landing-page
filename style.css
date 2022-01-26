@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-header {
+    background-color: #1f2937;
+    height: 100vh;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-list {
+    
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+    margin: ;
+}
+
+.list-item, a {
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
